@@ -9,3 +9,5 @@
 [Домашнє завдання 4. Кортежі, словники та множини](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/4_HW_9.2%20%D0%9A%D0%BE%D1%80%D1%82%D0%B5%D0%B6%D1%96%2C%20%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%82%D0%B0%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B8%D0%BD%D0%B8.ipynb)
 <br>
 [Домашнє завдання 5. Конструкція if...else](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/5_HW_9.3_Control_Flow.%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F%20if...else.ipynb)
+<br>
+[Домашнє завдання 6. Цикл for](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/6_HW_9.3_%D0%A6%D0%B8%D0%BA%D0%BB%20for.ipynb)
