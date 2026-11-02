@@ -13,3 +13,5 @@
 [Домашнє завдання 6. Цикл for](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/6_HW_9.3_%D0%A6%D0%B8%D0%BA%D0%BB%20for.ipynb)
 <br>
 [Домашнє завдання 7. Comprehension в Python](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/7_HW_9.3_Comprehensions.ipynb)
+<br>
+[Домашнє завдання 8. Цикл while](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/8_HW_9.3_%D0%A6%D0%B8%D0%BA%D0%BB%20while.ipynb)
