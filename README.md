@@ -2,20 +2,20 @@
 
 [Домашнє завдання 1. Синтаксис Pyton](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/01_HW_9.1%20C%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%20Python.ipynb)
 <br>
-[Домашнє завдання 2. Операції над даними](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/2_HW_9.1_%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%96%CC%88%20%D0%BD%D0%B0%D0%B4%20%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8.ipynb)
+[Домашнє завдання 2. Операції над даними](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/02_HW_9.1_%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%96%CC%88%20%D0%BD%D0%B0%D0%B4%20%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8.ipynb)
 <br>
-[Домашнє завдання 3. Списки](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/3_HW_9.2%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8.ipynb)
+[Домашнє завдання 3. Списки](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/03_HW_9.2%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8.ipynb)
 <br>
-[Домашнє завдання 4. Кортежі, словники та множини](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/4_HW_9.2%20%D0%9A%D0%BE%D1%80%D1%82%D0%B5%D0%B6%D1%96%2C%20%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%82%D0%B0%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B8%D0%BD%D0%B8.ipynb)
+[Домашнє завдання 4. Кортежі, словники та множини](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/04_HW_9.2%20%D0%9A%D0%BE%D1%80%D1%82%D0%B5%D0%B6%D1%96%2C%20%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%82%D0%B0%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B8%D0%BD%D0%B8.ipynb)
 <br>
-[Домашнє завдання 5. Конструкція if...else](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/5_HW_9.3_Control_Flow.%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F%20if...else.ipynb)
+[Домашнє завдання 5. Конструкція if...else](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/05_HW_9.3_Control_Flow.%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F%20if...else.ipynb)
 <br>
-[Домашнє завдання 6. Цикл for](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/6_HW_9.3_%D0%A6%D0%B8%D0%BA%D0%BB%20for.ipynb)
+[Домашнє завдання 6. Цикл for](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/06_HW_9.3_%D0%A6%D0%B8%D0%BA%D0%BB%20for.ipynb)
 <br>
-[Домашнє завдання 7. Comprehension в Python](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/7_HW_9.3_Comprehensions.ipynb)
+[Домашнє завдання 7. Comprehension в Python](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/07_HW_9.3_Comprehensions.ipynb)
 <br>
-[Домашнє завдання 8. Цикл while](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/8_HW_9.3_%D0%A6%D0%B8%D0%BA%D0%BB%20while.ipynb)
+[Домашнє завдання 8. Цикл while](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/08_HW_9.3_%D0%A6%D0%B8%D0%BA%D0%BB%20while.ipynb)
 <br>
-[Домашнє завдання 9. Функції. Основи.](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/9_HW_9.4_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%96%CC%88%D1%96%CC%88.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8.ipynb)
+[Домашнє завдання 9. Функції. Основи.](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/09_HW_9.4_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%96%CC%88%D1%96%CC%88.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8.ipynb)
 <br>
-[Домашнє завдання 10. Функції. Продовження.](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/10_HW_9.4._%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%96%CC%88.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F)
+[Домашнє завдання 10. Функції. Продовження.](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/10_HW_9.4._%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%96%CC%88.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F.ipynb)
