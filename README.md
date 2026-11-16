@@ -19,3 +19,6 @@
 [Домашнє завдання 9. Функції. Основи.](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/09_HW_9.4_%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%96%CC%88%D1%96%CC%88.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8.ipynb)
 <br>
 [Домашнє завдання 10. Функції. Продовження.](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/10_HW_9.4._%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D1%96%D1%96%CC%88.%20%D0%9F%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F.ipynb)
+<br>
+[Домашнє завдання 11. Введення в Pandas та Numpy](https://github.com/cristinaprystavskiy/python_for_ds_tasks/blob/main/11_HW_10.1_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BD%D1%8F%20%D1%83%20Pandas%20%D1%82%D0%B0%20NumPy%20.ipynb)
+
